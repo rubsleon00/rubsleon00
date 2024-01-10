@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me ...rubenleonheredia@yahoo.es
 
 <!---
 rubsleon00/rubsleon00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
